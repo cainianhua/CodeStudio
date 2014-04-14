@@ -1,0 +1,4 @@
+F:\CodeStudio\bin\Debug\CodeStudio.dll
+F:\CodeStudio\bin\Debug\CodeStudio.pdb
+F:\CodeStudio\obj\Debug\CodeStudio.dll
+F:\CodeStudio\obj\Debug\CodeStudio.pdb
